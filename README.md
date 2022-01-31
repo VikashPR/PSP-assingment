@@ -1,3 +1,4 @@
 # PSP-assingment
-For this Repo I hosted it in Firebase so look here 
-https://psp-ct2.web.app/#
+This repo is my Professional Skills and Practice assingment.
+The deployment link : https://psp-ct2.web.app/#
+
